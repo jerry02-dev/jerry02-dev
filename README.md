@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 - My Recent Tech Stack Laravel, inertia.js and React.js
-- Currently Learning Vue.js <a href="https://cdnlogo.com/logo/vue-js_37016.html"><img src="https://www.cdnlogo.com/logos/v/92/vue-js.svg"></a>
+- Currently Learning Vue.js 
+<img src="https://www.cdnlogo.com/logos/v/92/vue-js.svg" alt="html5" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
