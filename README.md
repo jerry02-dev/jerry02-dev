@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 - My Recent Tech Stack Laravel, inertia.js and React.js
 <br/>
-- Currently Learning Vue.js 
-<img src="https://www.cdnlogo.com/logos/v/92/vue-js.svg" alt="html5" width="40" height="40"/>
+- Currently Learning .Net and C#
 
 
 
