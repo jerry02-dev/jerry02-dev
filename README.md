@@ -2,7 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1bGayZtCIdP4KT3e2ufXB8SVxPH6D0DUu/view"  />
 
 ###
 
