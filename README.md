@@ -40,8 +40,7 @@
 <div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerry02-dev&show_icons=true&locale=en&layout=compact" alt="jerry02-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=jerry02-dev" alt="jerry02-dev" /></p>
-[![GitHub Streak]()](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerry02-dev&show_icons=true&locale=en" alt="jerry02-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry02-dev&" alt="jerry02-dev" /></p>
 </div>
